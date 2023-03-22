@@ -1,4 +1,4 @@
-![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ductranprof99&hide=jupyter%20notebook,python,tex)
+![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ductranprof99&hide=jupyter%20notebook,tex,python)
 
 - 🤔 I’m hiding my python skill, ehehhehehehhe, if i show that that the most unbalance and unrelated job profile ever show
 <!--
